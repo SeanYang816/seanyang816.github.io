@@ -4,3 +4,6 @@
 [submodule "sunnyside-agency-landing-page-main"]
 	path = sunnyside-agency-landing-page-main
 	url = https://github.com/SeanYang816/sunnyside-agency-landing-page-main
+[submodule "countdown-timer-project"]
+	path = countdown-timer-project
+	url = https://github.com/SeanYang816/countdown-timer-project
