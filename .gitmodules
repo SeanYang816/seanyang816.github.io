@@ -7,3 +7,6 @@
 [submodule "countdown-timer-project"]
 	path = countdown-timer-project
 	url = https://github.com/SeanYang816/countdown-timer-project
+[submodule "Weather-Application"]
+	path = Weather-Application
+	url = https://github.com/SeanYang816/Weather-Application
