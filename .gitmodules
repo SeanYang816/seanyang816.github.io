@@ -10,3 +10,6 @@
 [submodule "Weather-Application"]
 	path = Weather-Application
 	url = https://github.com/SeanYang816/Weather-Application
+[submodule "Style-Guide"]
+	path = Style-Guide
+	url = https://github.com/SeanYang816/Style-Guide
