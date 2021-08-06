@@ -13,3 +13,6 @@
 [submodule "Style-Guide"]
 	path = Style-Guide
 	url = https://github.com/SeanYang816/Style-Guide
+[submodule "number-guesser-project"]
+	path = number-guesser-project
+	url = https://github.com/SeanYang816/number-guesser-project
